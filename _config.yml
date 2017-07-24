@@ -8,7 +8,7 @@
 # Site settings
 title: Shoggot test site
 email: iopden@gmail.com
-description: > This site is for testing new skills in HTML/CSS.
+description: "This site is for testing new skills in HTML/CSS."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://shoggot.pp.ua" # the base hostname & protocol for your site
 twitter_username: shoggotden
